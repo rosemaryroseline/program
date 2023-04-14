@@ -3,3 +3,4 @@ Hello world...
 thank you
 adding primary number code
 and armstrong
+all are done
