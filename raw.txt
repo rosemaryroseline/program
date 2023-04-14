@@ -1,3 +1,5 @@
 welcome to proggramming class
 Hello world...
 thank you
+adding primary number code
+and armstrong
