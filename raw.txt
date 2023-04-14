@@ -1,3 +1,8 @@
 welcome to proggramming class
 Hello world...
+
+Devops AWS
+
+and
+azure are added
 thank you
